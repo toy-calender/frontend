@@ -12,7 +12,7 @@ class Footer extends Component {
   render() {
     return (
       <div>
-        <footer claaName="footer">
+        <footer className="footer">
           <span className="text-muted">&copy; 스프링 리액트 토이 프로젝트</span>
         </footer>
       </div>
